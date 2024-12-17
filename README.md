@@ -6,7 +6,7 @@ SangeetStream is a simple and elegant web-based music player that lets you enjoy
 
 
 # 📸 Project Preview
-Add a screenshot of your music player here:
+https://mysangeetstream.netlify.app/#english
 
 
 
