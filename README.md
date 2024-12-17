@@ -34,4 +34,4 @@ CSS3: Styling and layout
 JavaScript: Logic and interactivity
 
 
-Enjoy the rhythm! 🎧 | Made with ❤️ for music lovers.
+# Enjoy the rhythm! 🎧 | Made with ❤️ for music lovers.
