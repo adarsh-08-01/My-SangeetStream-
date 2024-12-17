@@ -1,6 +1,6 @@
 var results_container = document.querySelector("#saavn-results")
 var results_objects = {};
-const searchUrl = "https://jiosaavn-api-privatecvc2.vercel.app/search/songs?query=";
+const searchUrl = ""; // If you need api for your music player Simaple massage me on linkdin :- Adarsh Kashyap (Kanpur).
 function SaavnSearch() {
 event.preventDefault(); // stop page changing to #, which will reload the page
 var query = document.querySelector("#saavn-search-box").value.trim()
