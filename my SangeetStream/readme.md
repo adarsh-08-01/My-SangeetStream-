@@ -1,29 +1,41 @@
-# Sangeet Stream
+# 🎵 My SangeetStream
 
-# Details
-> Status : `In Development`<br>
-Version : `v3.0` <br>
-Developers: `@wiz64`
-## Features
-- ⭕ All basic features of a music player
-- :green_apple: Download MP3 Songs with metadata
-- 🏠 Modern Design
-- 📱 Simplified Design for Mobile Devices
-- ♻ No ads, Open-Source, Optimised Code
-- 🎵 Large Library of Songs, Fetched Directly
-  
-## Upcoming Features
-- Playlists
-- Song Sharing
-- Lyrics
-  
-## Installation / Usage
+**My SangeetStream** is a modern, web-based music player built with **HTML, CSS, and JavaScript** — designed to deliver a beautiful and smooth music listening experience right in your browser.
 
-Files are completely static, and can be served directly to the browser. No installation is required, Just open the page on a browser and you're ready to rock.
-Downloader API is available at [wiz64/saadhna-mp3-server](https://github.com/wiz64/saadhna-mp3-server)
+🎧 Live Demo: https://mysangeetstream.netlify.app/  
 
-<br>
+---
 
-> Just anything that can serve plain HTML will work
+## 🌟 Features
 
-<br>
+✔ Play, pause and stop music  
+✔ Next and previous track navigation  
+✔ Interactive playlist  
+✔ Volume and progress control  
+✔ Sleek, user-friendly interface  
+✔ Responsive UI for desktop and mobile
+
+---
+
+## 🧰 Technologies Used
+
+- **HTML5** – Structure  
+- **CSS3** – Styling & layout  
+- **JavaScript** – Logic & interactivity  
+
+---
+
+## 🚀 Project Preview
+
+A simple and elegant music player built using web technologies — no frameworks, just pure front-end skills.
+
+![](https://mysangeetstream.netlify.app/?__a=1)  
+*(Preview screenshot / URL – optional)*
+
+---
+
+## 💡 How to Use
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/adarsh-08-01/My-SangeetStream-.git
